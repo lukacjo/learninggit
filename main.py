@@ -17,3 +17,16 @@ for k,v in upp.items():#k to keys a v to values ale tutaj to nie ma znaczenia bo
     
 print("Łącznie kupujemy",count,"produktów")
 
+
+""" na tym ogarniałem jak działa sprawianie ze wartości moga miec duża litere
+test_dict = {"Gfg" : ["ab", "cd", "ef"],
+             "Best" : ["gh", "ij"], "is" : ["kl"]}
+  
+# printing original dictionary
+print("The original dictionary is : " + str(test_dict))
+  
+# using upper to convert to upper case 
+res = {key: [ele.upper() for ele in test_dict[key] ] for key in test_dict }
+  
+# printing result 
+print("The dictionary after conversion " + str(res)) """
