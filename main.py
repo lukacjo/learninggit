@@ -30,3 +30,18 @@ res = {key: [ele.upper() for ele in test_dict[key] ] for key in test_dict }
   
 # printing result 
 print("The dictionary after conversion " + str(res)) """
+#zad2
+
+num=[]
+triple=[]
+for i in range(0,101):
+    if i%5==0:
+        #print(i)
+        num.append(i)
+    else:
+        continue
+for n in num:
+    triple.append(n**3)
+
+print(num)
+print(triple)
