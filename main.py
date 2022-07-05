@@ -46,3 +46,5 @@ for n in num:
 print(num)
 print(triple)
 #lekka zmiana
+
+print("nikt sie nie spodziewa hiszpańskiej inkwizycji")
