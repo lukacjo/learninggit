@@ -48,3 +48,4 @@ print(triple)
 #lekka zmiana
 
 print("nikt sie nie spodziewa hiszpańskiej inkwizycji")
+#pierwsza kolejna zmiana
