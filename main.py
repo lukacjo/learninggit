@@ -45,3 +45,4 @@ for n in num:
 
 print(num)
 print(triple)
+#lekka zmiana
