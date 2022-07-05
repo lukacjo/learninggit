@@ -53,3 +53,6 @@ print("nikt sie nie spodziewa hiszpańskiej inkwizycji")
 #druga kolejna zmiana
 
 #sprawdzam jak działa branch# połączyło sie z branchem
+
+
+#drugi raz robie branch dla nauki 
